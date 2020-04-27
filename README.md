@@ -1,7 +1,4 @@
 # matrix
-matrix - A simple &amp; modular investment strategy prototyping and backtesting framework
-
-## About
 
 Matrix is a lightweight modular framework for prototyping and backtesting trading strategies. It offers:
 - Flexibiltiy to define strategy logics in seconds and compute the backtesting results instantly;
